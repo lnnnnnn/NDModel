@@ -46,12 +46,13 @@
     当前论文的作者与当前作者所有论文的作者有交集的论文数目
     
     ......
+    
 
  3. 标题、关键词类
  
-   标题、关键词间的编辑距离、相似度、jaccard
+       标题、关键词间的编辑距离、相似度、jaccard
  
-   基于word2vec、triplet loss训练embedding计算相似度
+       基于word2vec、triplet loss训练embedding计算相似度
 
     
   
