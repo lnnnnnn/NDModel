@@ -48,9 +48,9 @@
     ......
 
  3. 标题、关键词类
- 标题、关键词间的编辑距离、相似度、jaccard
+   标题、关键词间的编辑距离、相似度、jaccard
  
-基于word2vec、triplet loss训练embedding计算相似度
+   基于word2vec、triplet loss训练embedding计算相似度
 
     
   
@@ -66,7 +66,7 @@
     
  6. 发表年份类
  
- 时间跨度
+    时间跨度
 
 
 
